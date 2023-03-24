@@ -1,6 +1,6 @@
 # Boilerplates
 
-A collection of boilerplates built with Next13, Firebase9 & Tailwind. Boilerplates with unique use cases may use external services/third party apps which will be specified in the title or description of the individual boilerplate.
+A collection of boilerplates built with Next13, Firebase 9 & Tailwind. Boilerplates with unique use cases may use external services/third party apps which will be specified in the title or description of the individual boilerplate.
 
 ### Disclaimers
 
@@ -14,6 +14,10 @@ A collection of boilerplates built with Next13, Firebase9 & Tailwind. Boilerplat
 3. Auth-Subscription : Subscription Site biolerpalte, tracking subscribed / unsubscribed users on firebase.
 4. Auth-Products (Coming Soon)
 5. Auth-AccessControlledRooms : Authenticate users and have them form rooms with shared collection data.
+
+### Deprecated
+
+1. [Firebasetailwind-authboiler](https://github.com/simoncarriere/firebasetailwind-authboiler) : Multi page Auth with React, Firebase 8 and Tailwind.
 
 ### Have a unique use case?
 
