@@ -21,4 +21,4 @@ A collection of boilerplates built with Next13, Firebase 9 & Tailwind. Boilerpla
 
 ### Have a unique use case?
 
-Get in touch with me on Twitter @simonsjournal
+Get in touch with me on Twitter [@simonsjournal](https://twitter.com/simonsjournal)
