@@ -10,7 +10,7 @@ A collection of boilerplates built with Next13, Firebase 9 & Tailwind. Boilerpla
 ### The Boilerplates
 
 1. [Auth-SPA](https://github.com/simoncarriere/Auth-SPA-N13F9) : Authentication for Single Page App using Email and/or Social Providers
-2. Auth-Multipage (Coming Soon)
+2. [Auth-Routed](https://github.com/simoncarriere/Auth-Routed-N13F9) (Coming Soon)
 3. Auth-Subscription : Subscription Site biolerpalte, tracking subscribed / unsubscribed users on firebase.
 4. Auth-Products (Coming Soon)
 5. Auth-AccessControlledRooms : Authenticate users and have them form rooms with shared collection data.
