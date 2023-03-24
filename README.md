@@ -13,7 +13,7 @@ A collection of boilerplates built with Next13, Firebase9 & Tailwind. Boilerplat
 2. Auth-Multipage (Coming Soon)
 3. Auth-Subscription : Subscription Site biolerpalte, tracking subscribed / unsubscribed users on firebase.
 4. Auth-Products (Coming Soon)
-5. Auth-AccessControlledRooms :
+5. Auth-AccessControlledRooms : Authenticate users and have them form rooms with shared collection data.
 
 ### Have a unique use case?
 
