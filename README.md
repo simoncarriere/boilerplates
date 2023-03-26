@@ -10,11 +10,11 @@ A collection of boilerplates built with Next13, Firebase 9 & Tailwind. Boilerpla
 ### The Boilerplates 
 > 🟢 - Ready, 🟡 - Breaking Bugs, 🔴 - Not Started
 
-1. 🟢 [Auth-SPA](https://github.com/simoncarriere/Auth-SPA-N13F9) : Authentication for Single Page App using Email and/or Social Providers
-2. 🟢 [Auth-Subscription](https://github.com/simoncarriere/Paywall-subscription-N13F9) : Paywall subscription with Stripe
-3. 🟡 Auth-AccessControlledRooms : Authenticate users and have them form rooms with shared collection data.
-4. 🟡 [Auth-Routed](https://github.com/simoncarriere/Auth-Routed-N13F9) (Coming Soon)
-5. 🔴 Auth-Products (Coming Soon)
+1. 🟢 [Auth SPA](https://github.com/simoncarriere/Auth-SPA-N13F9) : Authentication for Single Page App using Email and/or Social Providers
+2. 🟢 [Paywall Subscription](https://github.com/simoncarriere/Paywall-subscription-N13F9) : Paywall subscription with Stripe
+3. 🟡 Auth AccessControlledRooms : Authenticate users and have them form rooms with shared collection data.
+4. 🟡 [Auth Routed](https://github.com/simoncarriere/Auth-Routed-N13F9) (Coming Soon)
+5. 🔴 Auth Products (Coming Soon)
 
 ### Deprecated
 
