@@ -7,7 +7,8 @@ A collection of boilerplates built with Next13, Firebase 9 & Tailwind. Boilerpla
 - I tried to offer a balance between unopionated styling and a good starting point using a atomic design framework.
 - Every boilerplate denormalizes user data into its own firebase collection 'users' on signup.
 
-### The Boilerplates (🟢 - Ready, 🟡 - Breaking Bugs, 🔴 - Not Started)
+### The Boilerplates 
+🟢 - Ready, 🟡 - Breaking Bugs, 🔴 - Not Started
 
 1. 🟢 [Auth-SPA](https://github.com/simoncarriere/Auth-SPA-N13F9) : Authentication for Single Page App using Email and/or Social Providers
 2. 🟡 [Auth-Subscription](https://github.com/simoncarriere/Paywall-subscription-N13F9) : Paywall subscription with Stripe
